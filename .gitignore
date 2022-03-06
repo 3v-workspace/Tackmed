@@ -1,0 +1,16 @@
+# python cache
+__pycache__/
+*.py[cod]
+*.pid
+.cache
+
+# mac os
+.DS_Store
+
+# IDE
+/.idea/
+/.vscode/
+
+# python venv
+/venv/
+/.venv/
