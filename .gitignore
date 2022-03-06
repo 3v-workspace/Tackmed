@@ -14,3 +14,7 @@ __pycache__/
 # python venv
 /venv/
 /.venv/
+
+# django settings
+settings_local.py
+db.sqlite3
